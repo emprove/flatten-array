@@ -1,0 +1,19 @@
+{
+  "name": "emprove/flatten-array",
+  "description": "`flatten-array` is a helper function for flatten array.",
+  "version": "1.0",
+  "license": "MIT",
+  "type": "package",
+  "authors": [
+      {
+        "name": "Ilya Emprove",
+        "email": "emprove@pm.me"
+      }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "files": ["src/helper.php"]
+  }
+}
